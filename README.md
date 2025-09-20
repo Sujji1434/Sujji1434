@@ -1,14 +1,26 @@
-- 👋 Hi, I’m Sujeevana Lekkala
-- 👀 Master's student in AI & Data Science with a proven ability to lead and execute projects from concept to completion.
-- My hands-on skills in Python (NumPy, Pandas), SQL, and Power BI are complemented by a strong understanding of core business principles,
-- as evidenced by a perfect score in Agile Project Management, a foundation for driving efficiency and collaboration.
-- I am passionate about the intersection of technology and business, seeking to apply my skills to drive digital transformation.
-- My interests span across:
- * **Business Operations**: Using data and enterprise systems to optimize logistics, finance, and operational efficiency.
-   
- * **Fashion & Retail**: Leveraging AI to improve supply chain management, trend forecasting, and customer experiences.
+**👋 Hi, I’m Sujeevana Lekkala**
 
- * **Data Project Management**: Applying my knowledge of advanced analytics and Agile methodologies to build and manage robust, data-driven solutions from start to finish.
+🎓 I'm a Master's student in AI & Data Science, currently beginning my second semester in October 2025, after successfully completing my first semester in August. I bring a strong track record of leading and executing projects from concept to completion.
+
+**💼 Skills & Strengths**
+- Proficient in Python (NumPy, Pandas), SQL, and Power BI
+- Solid foundation in Agile Project Management, backed by a perfect score
+- Strong grasp of core business principles and digital transformation strategies
+  
+**🚀 Passion & Focus**
+
+I'm deeply interested in the intersection of technology and business, and I aim to apply my skills to drive innovation and efficiency across industries.
+
+**🔍 Areas of Interest**
+- Business Operations
+Optimizing logistics, finance, and operational workflows using data and enterprise systems
+- Fashion & Retail
+Applying AI to enhance supply chain management, trend forecasting, and customer experience
+- Data Project Management
+Building and managing robust, data-driven solutions using advanced analytics and Agile methodologies
+
+
+
 
 
 <!---
