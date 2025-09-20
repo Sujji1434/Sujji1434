@@ -8,7 +8,7 @@
    
  * **Fashion & Retail**: Leveraging AI to improve supply chain management, trend forecasting, and customer experiences.
 
- ***Data Project Management**: Applying my knowledge of advanced analytics and Agile methodologies to build and manage robust, data-driven solutions from start to finish.
+ * **Data Project Management**: Applying my knowledge of advanced analytics and Agile methodologies to build and manage robust, data-driven solutions from start to finish.
 
 
 <!---
